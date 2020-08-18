@@ -29,4 +29,4 @@ loss function:　MSE（平均二乗誤差）
 10個場所7月交通事故発生率と予測結果平均mae：0.042399175982717016（予測値と正解値の差の絶対値の平均）
 10個場所7月交通事故発生率と予測結果平均rmse：0.054711453565276666（平均二乗誤差の平方根）
 
-ipythonk開けないなら、https://nbviewer.jupyter.org/　jupyter nbviewerを試してください。
+ipynb開けないなら、https://nbviewer.jupyter.org/　jupyter nbviewerを試してください。
